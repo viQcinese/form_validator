@@ -37,7 +37,7 @@ function validate(){
         }
 
         else {
-            this.parentElement.className = "form-control"
+            this.parentElement.className = "form-control success"
         }
     }
 
@@ -58,7 +58,7 @@ function validate(){
         }
 
         else {
-            this.parentElement.className = "form-control"
+            this.parentElement.className = "form-control success"
         }
     }
 
@@ -76,7 +76,7 @@ function validate(){
         }
 
         else {
-            this.parentElement.className = "form-control"
+            this.parentElement.className = "form-control success"
         }
     }
 
@@ -100,7 +100,7 @@ function validate(){
         }
         
         else {
-            this.parentElement.className = "form-control"
+            this.parentElement.className = "form-control success"
         }
     }
 }
